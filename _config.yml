@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: A Start To Life In Coding 
 header-img: img/home-bg.png
 email: djg3396@gmail.com
 copyright_name: Dangorms
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The Beginning
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Dangorms
